@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\Codes\Projects\Project_Tracking\Project_Tracking\project-track-backend"/>
+			<item value="D:\Codes\Projects\CDAC Project_Inshine(Beauty Parlor Management System)\Backend - Inshine"/>
+			<item value="D:\Codes\Projects\final_project-master\final_project-master\backend\EfficientSS"/>
+			<item value="D:\Codes\Projects\Medical Shop MET CDAC\Medical Shop MET CDAC\Project\shop"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
